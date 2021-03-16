@@ -1,0 +1,9 @@
+<pulsars>
+psr: J0437-4715
+psr: J0613-0200
+ephem: 1022.eph
+createpsr: name=J0711-6830, raj=07:11:00, decj=-68:30:00, f0=1, f1=0, dm=100, pepoch=52000
+createpsr: raj=19:09:00, decj=-37:15:00, f0=1, f1=0, dm=100, pepoch=52000
+createpsr: n=4,pos=isotropic(fixed;decj<-10;decj>-40;raj>180),F0 = 500+10*ran(gaussian),F1=1e-16+1e-18*ran(gaussian),DM=100+20*ran(gaussian),PEPOCH=52000,fix=F0
+#createpsr: n=2,psrpop="psrfile.dat",F1=0,PEPOCH=52000
+</pulsars>

@@ -1,0 +1,20 @@
+README for ptaSimulate
+
+Build
+-----
+Edit the Makefile, setting PREFIX to suit your system, and then run:
+
+  make
+
+Install
+-------
+
+  make install
+
+
+Clean
+-----
+
+  make clean
+
+
